@@ -10,7 +10,7 @@ using SalesWebMVC.Data;
 namespace SalesWebMVC.Migrations
 {
     [DbContext(typeof(SalesWebMVCContext))]
-    [Migration("20220126230027_OtherEntities")]
+    [Migration("20220128161016_OtherEntities")]
     partial class OtherEntities
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
